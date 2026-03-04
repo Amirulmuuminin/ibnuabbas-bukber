@@ -13,8 +13,6 @@ Dokumen ini dibuat untuk memudahkan setiap panitia dan peserta menemukan peran d
 
 ---
 
----
-
 ## Dokumentasi Penting
 
 ### 👥 Kepanitiaan
