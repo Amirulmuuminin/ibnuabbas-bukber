@@ -1,3 +1,15 @@
+# Susunan Panitia
+
+---
+
+## Daftar Isi
+
+1. [Daftar Panitia](#daftar-panitia)
+
+---
+
+## Daftar Panitia
+
 | No | Jabatan | Nama Lengkap | Job Description |
 |----|----------|--------------|-----------------|
 | 1 | Pembina | Yayasan Ibnu Abbas BSD / Mudir PKBM Tinta Ilmu | Melindungi dan mengawasi panitia |

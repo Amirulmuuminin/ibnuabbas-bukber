@@ -1,4 +1,15 @@
-# Pihak Terlibat
+# Alur Konsumsi
+
+---
+
+## Daftar Isi
+
+1. [Pihak Terlibat](#pihak-terlibat)
+2. [Teknis Alur Konsumsi](#teknis-alur-konsumsi)
+
+---
+
+## Pihak Terlibat
 
 - 14 murid SMP Ikhwan
 - Ust. Ilham

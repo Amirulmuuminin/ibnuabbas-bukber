@@ -1,4 +1,18 @@
-# Pihak Terlibat (Petugas Pendamping)
+# Alur Murid dari Mushola ke Kelas
+
+---
+
+## Daftar Isi
+
+1. [Pihak Terlibat (Petugas Pendamping)](#pihak-terlibat-petugas-pendamping)
+2. [Teknis Alur Murid dari Mushola ke Kelas](#teknis-alur-murid-dari-mushola-kelas)
+3. [Pembagian Petugas Pendamping Kelas](#pembagian-petugas-pendamping-kelas)
+   - [Lantai 1](#lantai-1)
+   - [Lantai 2](#lantai-2)
+
+---
+
+## Pihak Terlibat (Petugas Pendamping)
 
 - Usth Laela
 - Ustdzh Nira

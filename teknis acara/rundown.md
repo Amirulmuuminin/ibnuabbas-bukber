@@ -1,3 +1,15 @@
+# Rundown Acara
+
+---
+
+## Daftar Isi
+
+1. [Susunan Acara](#susunan-acara)
+
+---
+
+## Susunan Acara
+
 | Waktu (WIB)       | Agenda Acara                                             |
 | ----------------- | -------------------------------------------------------- |
 | 16.00 – 16.30     | Registrasi Kedatangan Panitia & Peserta                  |

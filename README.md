@@ -4,6 +4,17 @@ Dokumen ini dibuat untuk memudahkan setiap panitia dan peserta menemukan peran d
 
 ---
 
+## Daftar Isi
+
+1. [Dokumentasi Penting](#dokumentasi-penting)
+   - [Kepanitiaan](#kepanitiaan)
+   - [Teknis Acara](#teknis-acara)
+   - [Denah Lokasi](#denah-lokasi)
+
+---
+
+---
+
 ## Dokumentasi Penting
 
 ### 👥 Kepanitiaan
