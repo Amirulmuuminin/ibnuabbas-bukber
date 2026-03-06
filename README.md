@@ -4,15 +4,6 @@ Dokumen ini dibuat untuk memudahkan setiap panitia dan peserta menemukan peran d
 
 ---
 
-## Daftar Isi
-
-1. [Dokumentasi Penting](#dokumentasi-penting)
-   - [Kepanitiaan](#kepanitiaan)
-   - [Teknis Acara](#teknis-acara)
-   - [Denah Lokasi](#denah-lokasi)
-
----
-
 ## Dokumentasi Penting
 
 ### 👥 Kepanitiaan
@@ -27,6 +18,7 @@ Dokumen ini dibuat untuk memudahkan setiap panitia dan peserta menemukan peran d
 | **Rundown Acara** | Susunan lengkap agenda acara beserta waktu | [`teknis acara/rundown.md`](teknis%20acara/rundown.md) |
 | **Alur Konsumsi** | Teknis distribusi makanan & takjil untuk semua pihak | [`teknis acara/alur konsumsi.md`](teknis%20acara/alur%20konsumsi.md) |
 | **Alur Murid** | Pergerakan murid dari mushola ke kelas setelah acara | [`teknis acara/alur murid dari mushola kelas.md`](teknis%20acara/alur%20murid%20dari%20mushola%20kelas.md) |
+| **Daftar Performer** | Daftar lengkap siswa yang akan tampil (Nasyid Putra, Nasyid Putri, Puisi Bahasa Arab) | [`teknis acara/performer.md`](teknis%20acara/performer.md) |
 
 ### 🧭 Denah Lokasi
 | Lokasi | Deskripsi | Gambar |
